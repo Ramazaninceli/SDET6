@@ -1,0 +1,7 @@
+DOM : HTML iç yapısını adı
+<> </>
+
+Shadow DOM : saklı DOM
+Selenium 4.11.0
+son versiyonunda bunu eklediler
+buradaki elemanlar nasıl ulaşacağız.
